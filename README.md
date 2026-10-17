@@ -51,6 +51,6 @@ Open an [issue](https://github.com/KamaleshKannaL/sipbuddy/issues).
 
 ---
 
-SipBuddy is free to use. © 2026 Kamalesh, all rights reserved; see
+SipBuddy is free to use. © 2026 Kamalesh Kanna, all rights reserved; see
 [LICENSE](LICENSE). Includes FFmpeg (LGPL) and other components listed in
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
